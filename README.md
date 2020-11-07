@@ -1,6 +1,6 @@
 # Wikibase Docker images
 
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/ProfessionalWiki/wb-docker/build)](https://github.com/ProfessionalWiki/wb-docker/actions?query=workflow%3Abuild)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/ProfessionalWiki/wb-docker/Docker%20Build)](https://github.com/ProfessionalWiki/wb-docker/actions?query=workflow%3A"Docker+Build")
 [![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/prowiki/wikibase)](https://hub.docker.com/r/prowiki/wikibase)
 [![Docker Pulls](https://img.shields.io/docker/pulls/prowiki/wikibase)](https://hub.docker.com/r/prowiki/wikibase)
 
