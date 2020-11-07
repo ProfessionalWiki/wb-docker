@@ -1,11 +1,15 @@
 # Wikibase Docker images
 
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/ProfessionalWiki/wb-docker/build)](https://github.com/ProfessionalWiki/wb-docker/actions?query=workflow%3Abuild)
+[![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/prowiki/wikibase)](https://hub.docker.com/r/prowiki/wikibase)
+[![Docker Pulls](https://img.shields.io/docker/pulls/prowiki/wikibase)](https://hub.docker.com/r/prowiki/wikibase)
+
 This repo contains Dockerfiles to build Wikibase Docker images.
 
 These images differ from the [official Wikibase images](https://github.com/wmde/wikibase-docker) maintained by Wikimedia Deutschland:
 
 * They are build on top of the MediaWiki image maintained by [Professional Wiki](https://professional.wiki/)
-* They do not automatically install MediaWiki, making these images more similar to the base MediaWiki images by WMF
+* MediaWiki is not installed automatically, like the WMF MediaWiki image, unlike the WMDE Wikibase image
 * They contain different extensions
 * They do not currently have stable releases
 
