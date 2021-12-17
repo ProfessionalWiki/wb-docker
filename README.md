@@ -1,3 +1,5 @@
+**Caution: the images created via this repository are no longer updated and are out of date**
+
 # Wikibase Docker images
 
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/ProfessionalWiki/wb-docker/Docker%20Build)](https://github.com/ProfessionalWiki/wb-docker/actions?query=workflow%3A"Docker+Build")
